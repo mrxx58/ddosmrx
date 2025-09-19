@@ -96,4 +96,5 @@ node ddos.js
 ```shell script
 pkg install nodejs-lts -y
 pkg install git -y
+termux-setup-storage
 ```
