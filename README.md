@@ -91,10 +91,9 @@ node ddos.js
 ```
 
 
-**Clone and Install Script**
+**required packages **
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
-cd MHDDoS
-pip install -r requirements.txt
+pkg install nodejs-lts -y
+pkg install git -y
 ```
