@@ -68,7 +68,7 @@
 
 * ⚙️ Tools - Runs With 
 `
-python3 start.py tools
+node ddos.js tools
 `
   * 🌟 CFIP | Find Real IP Address Of Websites Powered By Cloudflare
   * 🔪 DNS | Show DNS Records Of Sites
